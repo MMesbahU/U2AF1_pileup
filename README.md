@@ -18,6 +18,10 @@ In human reference genome assembly hg38, identical mapping for regions chr21:430
 | Q157R      | chr21_43094667_T_C       | 43094667 | T/C |COSV52341147|65|
 
 
+## Terra wdl workflow
+https://portal.firecloud.org/?return=terra#methods/muddin/U2AF1Pileup_hg38/6
+
+
 
 
 ## Reference
