@@ -1,4 +1,4 @@
-# Read pileup for *U2AF1*
+# WGS/WES Read Pileup for *U2AF1*
 
 In human reference genome assembly hg38, identical mapping for regions chr21:43092356-43108170 and chr21:6484023-6499848 (where *U2AF1* is located).
 
@@ -20,3 +20,5 @@ In human reference genome assembly hg38, identical mapping for regions chr21:430
 
 
 
+## Reference
+#### 1. Miller, C. A., et al. (2022). [Failure to Detect Mutations in U2AF1 due to Changes in the GRCh38 Reference Sequence](https://doi.org/10.1016/j.jmoldx.2021.10.013)
